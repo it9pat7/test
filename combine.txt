@@ -1,0 +1,6 @@
+1.1.1.1
+2.2.2.2
+abc.com
+bbc.co.uk
+https://www.gov.uk/foreign-travel-advice
+https://en.wikipedia.org/wiki/Travel
